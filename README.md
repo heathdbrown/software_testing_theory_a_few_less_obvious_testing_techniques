@@ -10,6 +10,9 @@ Notes on another video https://youtu.be/K47pr6lPxsA
 # Code example: mutation testing
 
 # More types of testing
+* White Box -> having knowledge of the underlying code
+** Example: unit testing
+* Black Box -> no knowledge of the underlying code
 
 # About invariants
 
